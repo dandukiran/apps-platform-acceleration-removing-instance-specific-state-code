@@ -8,6 +8,7 @@
 <html>
 <head>
     <title>Remove Session State Lab - Profile Page</title>
+    Instance number: <%= System.getenv("CF_INSTANCE_INDEX") %>
 </head>
 <body>
 
